@@ -2,3 +2,8 @@
 id class css
 div selector
 background
+
+blog chess
+selector 
+boxmodel
+
